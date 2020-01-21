@@ -1,7 +1,7 @@
 title: Attila Dark / Genesis
 date: 20200121
 username: dgrence
-
+tags: python, git
 # Installer un thème Attila-Dark avec Pelican
 
 ## Introduction
@@ -19,3 +19,4 @@ Mais comme je suis fainéant, il fallait que ce soit facile, mais pas trop parce
 ## Modifier le thème pour vos jolis yeux :)
 
 ## Git things
+
