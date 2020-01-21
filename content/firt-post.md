@@ -11,3 +11,11 @@ Et si je partgagé au monde entier ~~mes conneries~~ mon savoir.
 
 Et quoi de mieux pour partager son savoir qu'un blog ?  
 Mais comme je suis fainéant fallait que ce soit facile mais pas trop parce que sinon y a pas de challenge.
+
+## Installer pelican
+
+## Installer un thème
+
+## Modifier le thème pour vos jolies yeux :)
+
+## Git things
